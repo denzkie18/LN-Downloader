@@ -1,3 +1,7 @@
+![images (6) (1)](https://user-images.githubusercontent.com/90649171/182352098-2bf8789c-7569-4cea-a58e-3df2869fdb05.jpeg)
+Note: Photo not mine.
+Credit to the rightful owner
+
 # LN Downloader
 
 LN Downloader is a powerful application that stored a lot of Light Novels. With this app that not contain advertisment (Ads), it's easy for anyone to download light novels. No payment nor login required, it's absolutely free.
@@ -18,3 +22,11 @@ I will fix this problem and keep improving this app every updates. If you found 
 #### More Information
 - Follow [Facebook](https://www.facebook.com/profile.php?id=100083956958685)
 - Developer: DenZ
+- Copyrighted: ©LN Downloader
+- Reserved: ®Alright Reserved 2022
+
+#### Support Application
+I was hoping for your contribution by donating any amount. Your contribution will help improve and keep this app. I am really thankful to you from the bottom of my heart.
+###### Ways of Donation
+- Paypal: gaudencioagtong17@gmail.com
+- Gcash: 09702707321
